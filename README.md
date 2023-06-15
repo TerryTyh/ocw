@@ -159,3 +159,10 @@ To get all the correct dependencies, activate direnv `direnv allow` and lorri `l
 ### Docker
 
 Please follow the [Substrate Docker instructions here](https://github.com/paritytech/substrate/blob/master/docker/README.md) to build the Docker container with the Substrate Node Template binary.
+
+### OCW
+1. 通过offchain_indexing实现从链上向链下存储数据
+<img width="957" alt="image" src="https://github.com/TerryTyh/ocw/assets/120092281/dd44509f-6b12-4061-a496-88111b6e2ff6">
+2. 通过polkadot.js 前端获取offchain storage存储的数据
+<img width="1268" alt="image" src="https://github.com/TerryTyh/ocw/assets/120092281/751b0959-e3f1-45f1-9455-531fb6698437">
+
