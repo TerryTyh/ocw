@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../substrate-node-template"
+		}
+	],
+	"settings": {
+		"rust-analyzer.linkedProjects": [
+			"./pallets/template/Cargo.toml"
+		]
+	}
+}
